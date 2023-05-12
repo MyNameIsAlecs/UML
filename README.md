@@ -1,14 +1,13 @@
 # Diagrama de clases
 
-## Animales
+## Ordenador (PC)
 El siguiente diagrama representa la estructura de clases en la aplicación.
 
 ```java
-class Perro{
-  String raza;
-  
-  String morder(String cosa){
-      return null;
-  }
+class Ordenador{
+    String teclado;
+    String raton;
 }
 ```
+
+
